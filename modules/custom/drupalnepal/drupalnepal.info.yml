@@ -1,0 +1,6 @@
+name: Drupal Nepal
+type: module
+description: Drupal Nepal.
+package: Drupal Nepal
+version: VERSION
+core: 8.x
