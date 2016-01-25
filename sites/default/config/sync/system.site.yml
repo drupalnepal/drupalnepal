@@ -1,0 +1,14 @@
+uuid: 4eb31004-d9c1-4e9f-8402-2d9156cd57a0
+name: 'Drupal Nepal'
+mail: drupalnepal@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
